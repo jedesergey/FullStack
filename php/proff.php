@@ -1,0 +1,1 @@
+<div id='content'><div class='block'><h1 style='color: #c92d2d; margin: 10px;' class='tcenter'>Error: Your authorization is needed to browse this page</h1></div></div>
